@@ -1,0 +1,19 @@
+@import url('https://ellexidecodes.github.io/Discord-Themes/addons/categoryNameFlair.css');
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Transparent%20CSS%20Editor.css");
+@import url("https://ellexidecodes.github.io/Discord-Themes/addons/chatBubbles.css");
+
+.wrapper-3WhCwL {
+  background-color: transparent !important;
+  color: var(--link-color) !important;
+}
+.wrapper-3WhCwL:hover {
+  background-color: var(--link-color) !important;
+  color: white !important;
+}
+.markup-2BOw-j a {
+color: var(--mention-color) !important;
+}
+.wrapper-1Rf91z .scrollerWrap-1IAIlv {
+  margin-top: 46px !important;
+  border-top: 2px solid var(--main-color);
+}
