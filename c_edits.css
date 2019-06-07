@@ -41,3 +41,11 @@ color: var(--mention-color) !important;
     transition: .2s all linear;
     border-top: 1px solid #121213 !important;
 }
+
+
+
+//temp
+
+.wrapper-1Rf91z:not(.foldercontent) .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child .wrapper-25eVIn {
+    width: 70px;
+}
